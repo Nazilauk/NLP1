@@ -9,9 +9,9 @@ Movie_next.py
 The Movie_next.py is a Python function that finds the movie similar to the description provided by the user. It uses pre-trained spacy model and cosine similarity to find the best matching movie from the dataset of movie descriptions. The function takes the movie description as input and returns the title of the most similar movie from the dataset. 
 
 ## Table of Contents
-- Installation
-- Usage
-- Credits
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
 
 ## Installation
 1. Clone or download the repository
